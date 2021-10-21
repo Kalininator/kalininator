@@ -1,4 +1,5 @@
 - 🔭 I’m currently working on stealing cookies
+- 🌱 I’m currently learning rust
 
 ![Kalininator's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalininator&show_icons=true&theme=gruvbox)
 
