@@ -4,7 +4,6 @@
 ![Kalininator's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalininator&show_icons=true&theme=gruvbox)
 
 
-
 <!--
 **Kalininator/kalininator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+![Kalininator's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kalininator&theme=gruvbox)
 -->
