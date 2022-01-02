@@ -1,7 +1,9 @@
 - 🔭 I’m currently working on stealing cookies
 - 🌱 I’m currently learning rust
 
-![Kalininator's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalininator&show_icons=true&theme=gruvbox)
+![Kalininator's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalininator&show_icons=true&theme=gruvbox&count_private=true)
+
+![Kalininator's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kalininator&theme=gruvbox&exclude_repo=Boids,CanJam2018,HexConwayMeteors,BarcodeKeeper,WeatherAlerts,Hilux-GSM-Android)
 
 
 <!--
@@ -20,5 +22,4 @@ Here are some ideas to get you started:
 
 
 
-![Kalininator's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kalininator&theme=gruvbox)
 -->
