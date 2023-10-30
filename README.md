@@ -1,4 +1,4 @@
-- 🔭 I’m currently browsing pictures of capybaras
+- 🔭 I’m currently browsing pictures of capybaras for [Capybara Status Codes](https://capybara.codes)
 - 🌱 I’m currently learning GCP/Terraform/Infrastructure 
 
 ![Kalininator's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalininator&show_icons=true&theme=gruvbox&count_private=true)
